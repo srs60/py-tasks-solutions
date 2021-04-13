@@ -25,15 +25,15 @@ Task &amp; Solutions for Python Course
 
 ## 10. OOP Calculator
 
-## 11. cows-and-bulls
+## 11. Cows-and-bulls
 
-## 12. word_count
+## 12. Word_count
 
-## 13. roman_number_converter
+## 13. Roman_number_converter
 
-## 14. dip
+## 14. DIP
 
-## 15. bank-atm
+## 15. Bank-ATM
 
-misc-py-code
+## 16. Misc-code
 
