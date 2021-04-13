@@ -24,3 +24,16 @@ Task &amp; Solutions for Python Course
 ## 9. Dir Print Like
 
 ## 10. OOP Calculator
+
+## 11. cows-and-bulls
+
+## 12. word_count
+
+## 13. roman_number_converter
+
+## 14. dip
+
+## 15. bank-atm
+
+misc-py-code
+
